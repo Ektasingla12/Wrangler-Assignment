@@ -1,0 +1,6 @@
+Prompt 1: give me antlr rule for BYTE_SIZE and TIME_DURATION
+Prompt 2: how to visit BYTE_SIZE token in GrammarBasedParser
+Prompt 3: write ByteSize.java to parse "10MB" and return bytes
+Prompt 4: help me write unit test for aggregate-stats directive
+Prompt 5: full step-by-step for wrangler enhancement assignment
+
